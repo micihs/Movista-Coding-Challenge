@@ -37,4 +37,4 @@ http://phptester.net/ is a handy resource to write PHP. Ideally your solution sh
 
 This solution is located in the PHP_Longest_Word file and is failry self explanatory. It has been run and tested on http://phptester.net/ and runs as expected.
 
-Look forward to hearing back!
+I Look forward to hearing back!
