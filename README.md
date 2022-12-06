@@ -33,7 +33,7 @@ For example, given the string "I love Cats", the function should return the word
  
 http://phptester.net/ is a handy resource to write PHP. Ideally your solution should be able to be copied and pasted into this page for testing.
 
-##Comments on the solution
+## Comments on the solution
 
 This solution is located in the PHP_Longest_Word file and is failry self explanatory. It has been run and tested on http://phptester.net/ and runs as expected.
 
