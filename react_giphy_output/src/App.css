@@ -1,0 +1,92 @@
+/* non-react styles */
+
+body {
+  background-color: #3d3d4d;
+}
+
+.button-container {
+  margin: 0 auto;
+  width: 70%;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.gifs {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gif {
+  padding: 0 2px;
+}
+
+.inputform {
+  justify-content: center;
+}
+
+/* Search tab related */
+a {
+  color: black;
+}
+
+.searchbar {
+  padding: 5px;
+}
+
+.searchbar {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  height: 1.75rem;
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.button {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  font-size: 20px;
+  border: #ede545;
+  border-radius: 4px;
+  width: 20%;
+  padding: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.searchbtn {
+  background-color: #ede545;
+}
+
+.trendingbtn {
+  background-color: #545ede;
+}
+
+.randombtn {
+  background-color: #ede545;
+}
+
+.ToTop {
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  font-size: 15px;
+  border-radius: 3px;
+  width: 7.5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-bottom: 15px;
+}
